@@ -1,6 +1,6 @@
 .div-logotipo{
     float: left;
-    background-color: rgb(169, 49, 49);
+    background-image: url(/assets/images/textura-granate.jpg);
     width: 100% ;
 }
 
@@ -24,9 +24,10 @@
     width: 100%;
 }
 #eslogan{
+    background-color: white;
     font-family: MarvelType;
     text-align: center;
     font-size: 3vw;
-    margin-left: 10%;
-    margin-right: 10%;
+    padding:5px;
+    clear: both;
 }

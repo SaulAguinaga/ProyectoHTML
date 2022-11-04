@@ -1,5 +1,5 @@
 main{
-    background-color: black;
+    background-color: rgb(6, 6, 6);
 }
 .imagen-avatar-viuda{
     background-image: url(/assets/images/viudaBN.jpg);
@@ -36,6 +36,9 @@ main{
     font-family: MarvelType;
     background-color: white;
     margin: 3%;
+    padding-top: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
     width:fit-content;
     height: fit-content;
 }
@@ -46,15 +49,17 @@ main{
 }
 
 #herramientas{
-    width: 20%;
+    width: 18%;
     height: fit-content;
-    background-color: rgb(169, 49, 49);
-    display: block;
+    background-image: url(/assets/images/textura-granate.jpg);
+    display: flex;
+    flex-wrap: wrap;
     float: right;
     margin: 2%;
     padding-left: 1%;
 }
 #herramientas h2{
+    color: rgb(230, 230, 230);
     font-family: MarvelType;
     background:none;
     font-size: 2.5vw;
@@ -63,17 +68,26 @@ main{
     font-family: MarvelType;
     font-size: 2vw;
     text-decoration: none;
-    color: black;
+    color: rgb(122, 122, 122);
 }
 #herramientas a:hover{
     font-family: MarvelType;
     font-size: 2vw;
     text-decoration: none;
-    color: white;
+    color: rgb(230, 230, 230);
 }
+
 .definicion{
-    background-color: aqua;
-    text-align: center;
-    font-size: 2vw;
+    font-family: MarvelType;
+    background-image: url(/assets/images/textura-granate.jpg);
+    color: rgb(230, 230, 230);
+    width: fit-content;
     height: fit-content;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    font-size: 3vw;
+    margin-top: 100%;
+    margin-left: 25%;
+
 }

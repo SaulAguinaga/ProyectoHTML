@@ -1,10 +1,7 @@
 # ProyectoHTML
 Vitoria y Saul HTML proyect
 
-Contexto del proyecto
 La empresa de desarrollo a solicitado a su nuevo team la realización de una página web estática, será para uso interno, y se utilisará para realizar el onboarding a los nuevos miembros así como tener un control del estado de salud del team (control del estrés y del ánimo).
-
-​
 
 Requisitos mínimos:
 
