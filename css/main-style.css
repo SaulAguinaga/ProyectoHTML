@@ -1,20 +1,38 @@
 .imagen-avatar{
+    background-image: url(/assets/images/viudaBN.jpg);
+    background-size: 100%;
+    float: left;
+    margin: 2%;
+    width: 35%;
+    height: 50vw;
+}
+.imagen-avatar:hover{
+    background-image: url(/assets/images/viuda.jpg) ;
+    background-size: 3%;
+    float: left;
+    margin: 2%;
+    width: 35%;
+    height: 50vw;
+}
+.imagen-avatar h2{
+    font-family: MarvelType;
     float: left;
     margin: 3%;
-    background-color: blue;
     width: 30%;
 }
 
 #contenedor-main{
     width: 100%;
+    height: 100%;
 }
 
 #herramientas{
     float: right;
-    margin-top: 5%;
+    margin-top: 4%;
     margin-right: 5%;
     background-color: orange;
 }
 #herramientas h2{
-    font-size: 5vw;
+    font-family: MarvelType;
+    font-size: 2vw;
 }
