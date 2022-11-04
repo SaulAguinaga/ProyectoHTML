@@ -1,24 +1,44 @@
-.imagen-avatar{
+main{
+    background-color: black;
+}
+.imagen-avatar-viuda{
     background-image: url(/assets/images/viudaBN.jpg);
     background-size: 100%;
     float: left;
-    margin: 2%;
+    margin: 1%;
     width: 35%;
-    height: 50vw;
+    height: 25vw;
 }
-.imagen-avatar:hover{
-    background-image: url(/assets/images/viuda.jpg) ;
-    background-size: 3%;
+.imagen-avatar-ironman{
+    background-image: url(/assets/images/ironmanBN.jpg);
+    background-size: 100%;
     float: left;
-    margin: 2%;
+    margin: 1%;
     width: 35%;
-    height: 50vw;
+    height: 25vw;
 }
-.imagen-avatar h2{
+.imagen-avatar-viuda:hover{
+    background-image: url(/assets/images/viuda.jpg) ;
+    background-size: 100%;
+    float: left;
+    margin: 1%;
+    width: 35%;
+    height: 25vw;
+}
+.imagen-avatar-ironman:hover{
+    background-image: url(/assets/images/ironman.jpg) ;
+    background-size: 100%;
+    float: left;
+    margin: 1%;
+    width: 35%;
+    height: 25vw;
+}
+#contenedor-main h2{
     font-family: MarvelType;
+    background-color: white;
     float: left;
     margin: 3%;
-    width: 30%;
+    width:fit-content;
 }
 
 #contenedor-main{
@@ -27,12 +47,33 @@
 }
 
 #herramientas{
+    width: 20%;
     float: right;
     margin-top: 4%;
-    margin-right: 5%;
-    background-color: orange;
+    margin-right: 3%;
+    background-color: rgb(169, 49, 49);
 }
 #herramientas h2{
     font-family: MarvelType;
+    background:none;
+    font-size: 2.5vw;
+}
+#herramientas a{
+    font-family: MarvelType;
     font-size: 2vw;
+    text-decoration: none;
+    color: black;
+}
+#herramientas a:hover{
+    font-family: MarvelType;
+    font-size: 2vw;
+    text-decoration: none;
+    color: white;
+}
+.definicion{
+    background-color: aqua;
+    text-align: center;
+    font-size: 2vw;
+    float: left;
+    margin-top: 120%;
 }
