@@ -1,6 +1,20 @@
 .imagen-avatar{
     float: left;
-    margin:20px;
+    margin: 3%;
     background-color: blue;
     width: 30%;
+}
+
+#contenedor-main{
+    width: 100%;
+}
+
+#herramientas{
+    float: right;
+    margin-top: 5%;
+    margin-right: 5%;
+    background-color: orange;
+}
+#herramientas h2{
+    font-size: 5vw;
 }
