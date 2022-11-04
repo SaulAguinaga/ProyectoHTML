@@ -10,7 +10,6 @@
 }
 
 .texto-cabecera{
-    position: static;
     text-align: center;
     font-family: MarvelType;
     font-size: 8vw;
@@ -25,10 +24,9 @@
     width: 100%;
 }
 #eslogan{
+    font-family: MarvelType;
     text-align: center;
     font-size: 3vw;
-    float: left;
-    width: 100%;
     margin-left: 10%;
     margin-right: 10%;
 }
