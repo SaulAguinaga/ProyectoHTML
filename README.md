@@ -1,6 +1,6 @@
 # Project: My crew
 <p>Vitoria and Saul HTML project<p>
-<p>Project name: Vengacoders</p>
+<p>Project name: <i>Vengacoders</i></p>
 <p>Goal: start developing html and css</p>
 <h3>Requirements that we were asked:</h3>
 <ul>
