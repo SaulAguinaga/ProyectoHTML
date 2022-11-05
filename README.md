@@ -5,7 +5,7 @@
 <h3>Requirements that we were asked:</h3>
 <ul>
   <li>The page should have a header with the name of the team</li>
-  <zli>A logo</li>
+  <li>A logo</li>
   <li>A banner</li>
   <li>A slogan</li>
   <li>A photo of each member or an avatar that represents them</li>
